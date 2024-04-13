@@ -153,11 +153,12 @@
   .nav-bar-desktop {
     position: relative;
     right: 0%;
+    
   }
 
   .stack{
     float: right;
-    display: block;
+    display: none;
     position:absolute;
     right: 0px;
     top: 0;
