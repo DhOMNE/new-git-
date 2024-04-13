@@ -141,6 +141,8 @@
   color: var(--color-white);
   font-family: var(--body-bold);
 }
+
+
 @media screen and (max-width: 750px) {
   .stack {
     display: none;
@@ -148,5 +150,20 @@
 }
 
 @media screen and (max-width: 450px) {
-  
-}
+  .nav-bar-desktop {
+    position: relative;
+    right: 0%;
+  }
+
+  .stack{
+    float: right;
+    display: block;
+    position:absolute;
+    right: 0px;
+    top: 0;
+  }  
+    
+}  
+
+
+

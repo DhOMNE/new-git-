@@ -141,5 +141,7 @@
 @media screen and (max-width: 750px) {
   .frame-parent {
     gap: var(--gap-lgi);
+    position: relative;
+    bottom: 10px;
   }
 }

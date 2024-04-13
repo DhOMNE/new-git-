@@ -37,3 +37,10 @@
   color: var(--color-white);
   font-family: var(--body-small-tag);
 }
+@media screen and (max-width: 768px) {
+  .formfaq {
+   position: relative;
+   right: 35%;
+   width: 90%;
+  }
+}

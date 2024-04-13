@@ -87,4 +87,15 @@
     padding-bottom: var(--padding-36xl);
     box-sizing: border-box;
   }
+ .frame-container{
+  position: relative;
+  left: 40%;
+  bottom: 140px;
+  
+ } 
+
+.h22{
+  word-spacing: 6px;
+
+} 
 }
